@@ -6,7 +6,7 @@ Food Waste is idea behind to shortout the problem of food wastage. It work in gr
 
 ## Idea Are Work As:
 
-# In this application are work in 3 level
+### In this application are work in 3 level
 - **1st level for End User who are give remain food**
 - **2nd level for Member who are go for taken food**
 - **3rd level are Admin who are manage them**
