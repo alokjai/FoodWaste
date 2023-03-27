@@ -1,6 +1,6 @@
 
 
-## Food Waste
+# Food Waste
 
 Food Waste is idea behind to shortout the problem of food wastage. It work in ground level and their user interaction are so easy that a lay man can also use it. We make to more easier for our user.
 
