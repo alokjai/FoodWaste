@@ -32,4 +32,9 @@ We are track the stale food owner by this portal and send our member to take the
 
 ## Contributing
 
-Thanks Our Team for their effort.
+Thanks Our Team member for their effort:
+
+- **Prabhat Patel**
+- **Prateek Yadav**
+- **Ashish Kumar**
+- **Alok Jaiswal**
