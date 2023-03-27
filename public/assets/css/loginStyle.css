@@ -1,0 +1,105 @@
+
+/***************** login css start**********************/   
+
+.login{
+    width:100%;
+    height: 80vh;
+    margin: 50px 0;
+    padding: 50px 0;
+    text-align: center;
+    position: relative;
+   
+}
+
+.login:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    /* background: linear-gradient(248deg,  #f76f00 55%, #fff 0%); */
+    background: linear-gradient(248deg,  #8E0E00 55%, #fff 0%);
+    z-index: -1;
+}
+
+.login .headings{
+    display: none;
+}
+
+.loginhead{
+    position: relative;
+    display: flexbox;
+    justify-content: center;
+    
+    text-align: center;
+    top: 25vh;
+   
+}
+.loginhead h1{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.login-id{
+    width: 20vw;
+    /* position: relative; */
+    box-sizing: border-box;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0;
+    
+      
+}
+
+
+
+.login-button button{
+   
+    border:1px solid #f76f00;
+    border-radius: 100px;
+    margin:0 5px;
+    padding: 12px 35px;
+    outline: none;
+    color: #f76f00;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align:center;
+    background: #fff;
+    color: #8E0E00;  
+}
+form .login-button a:hover{
+    background: #fff;
+    color: #f04400;
+    box-shadow: 0 0 35px 0 rgba(243, 237, 237, 0.618);
+}
+
+
+
+::placeholder{
+    font-size: 1rem;
+    
+}
+/*****************login css end*******************/
+
+/* Media queries */
+@media(max-width:768px){
+.login{
+    height: 100vh;
+}
+
+.login .login-id{
+    width: auto;
+    height: auto;
+
+}
+.login .headings{
+    display: inline-block;
+}
+.loginhead{
+    display: none; 
+}
+
+}
